@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:Nguyễn Hoàng Trí Nhân**
 - **Lớp:CNTT2**
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/nhanhoang14052008/HNK26CNTT2_PromptAI_H02_Pha1.git**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
@@ -32,7 +32,7 @@ Câu 1: Hãy lấy dữ liệu từ file đính kèm để trả lời, nếu kh
 ```text
 
 [C-CONTEXT]
-Bạn là nhân viên mới của nhà hàng Bếp Việt Buffet, phục vụ ba loại buffet: lầu, nướng
+Bạn là chuyên gia chăm sóc khách hàng của nhà hàng Bếp Việt Buffet, phục vụ ba loại buffet: lầu, nướng
 và hải sản.
 [R-REQUEST]
 Đặt 3 tin nhắn trong phần <tin>
